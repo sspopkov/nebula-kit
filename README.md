@@ -1,7 +1,7 @@
 # Nebula Kit
 
-![npm](https://img.shields.io/npm/v/nebula-kit?style=flat-square)
-![license](https://img.shields.io/npm/l/nebula-kit?style=flat-square)
+![npm](https://img.shields.io/npm/v/@sspopkov/nebula-kit?style=flat-square)
+![license](https://img.shields.io/npm/l/@sspopkov/nebula-kit?style=flat-square)
 ![storybook](https://img.shields.io/badge/storybook-online-orange?style=flat-square)
 
 **Nebula Kit** — это библиотека компонентов UI, созданная на React. Она разработана для упрощения разработки пользовательских интерфейсов, предоставляя готовые, переиспользуемые и настраиваемые компоненты.
