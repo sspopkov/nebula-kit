@@ -1,11 +1,16 @@
 {
   "name": "@sspopkov/nebula-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Библиотека компонентов UI на React",
   "main": "dist/index.js",
   "author": "sspopkov",
   "license": "MIT",
-  "keywords": ["react", "components", "ui", "library"],
+  "keywords": [
+    "react",
+    "components",
+    "ui",
+    "library"
+  ],
   "files": [
     "dist",
     "src"
