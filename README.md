@@ -13,13 +13,13 @@
 Установите библиотеку через npm:
 
 ```bash
-npm install nebula-kit
+npm install @sspopkov/nebula-kit
 ```
 
 Или с помощью yarn:
 
 ```bash
-yarn add nebula-kit
+yarn add @sspopkov/nebula-kit
 ```
 
 ---
@@ -30,7 +30,7 @@ yarn add nebula-kit
 
 ```javascript
 import React from 'react';
-import { Button, Input } from 'nebula-kit';
+import { Button, Input } from '@sspopkov/nebula-kit';
 
 const App = () => {
   return (
@@ -187,7 +187,7 @@ npm run build
 
 ## 🔗 Полезные ссылки
 
-- [npm-пакет](https://www.npmjs.com/package/nebula-kit)
+- [npm-пакет](https://www.npmjs.com/package/@sspopkov/nebula-kit)
 - [Storybook (онлайн)](#)
 - [GitHub репозиторий](https://github.com/sspopkov/nebula-kit)
 
